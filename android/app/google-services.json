@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056340254780",
+    "firebase_url": "https://biz-talk-5ae23-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "biz-talk-5ae23",
+    "storage_bucket": "biz-talk-5ae23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056340254780:android:d410facba71ff47af0e339",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056340254780-2t0rlk7heig4dvsfp3pmf9ai48hfks5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyh8S7fLpvvtQe_PqxuH7-M5dU9QMCgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056340254780-2t0rlk7heig4dvsfp3pmf9ai48hfks5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
