@@ -1,4 +1,4 @@
-package com.example.todo
+package com.example.prodigenius
 
 import io.flutter.embedding.android.FlutterActivity
 
