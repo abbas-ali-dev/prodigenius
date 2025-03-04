@@ -96,8 +96,8 @@ class _SplashImageState extends State<SplashImage>
         return Transform.translate(
           offset: Offset(0, _controller.value),
           child: Container(
-            height: 110,
-            width: 110,
+            height: 120,
+            width: 150,
             padding: EdgeInsets.all(3),
             decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(30),
@@ -125,12 +125,13 @@ class _SplashImageState extends State<SplashImage>
                       blurRadius: 10)
                 ]),
             child: Container(
-              padding: EdgeInsets.all(10),
+              padding: EdgeInsets.all(12),
               decoration: BoxDecoration(
-                  color: Colors.white, borderRadius: BorderRadius.circular(30)),
+                  color: Color(0XFFf4eaf2),
+                  borderRadius: BorderRadius.circular(30)),
               child: Image.asset(
                 'assets/images/splashImage.png',
-                fit: BoxFit.cover,
+                fit: BoxFit.fill,
               ),
             ),
           ),
